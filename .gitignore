@@ -1,0 +1,33 @@
+# raw data
+data/
+
+# big or local-only files
+output/ec1/*.tif
+*.gdb/
+*.aprx
+*.atbx
+*.lock
+*.aux.xml
+ImportLog/
+Index/
+.backups/
+
+# junk
+.ipynb_checkpoints/
+.Rhistory
+.RData
+__pycache__/
+
+# ArcGIS Pro leftovers
+GpMessages/
+output/cedar_dem_pro_*
+*.ovr
+*.tfw
+*.tif.xml
+
+# ArcGIS Pro leftovers
+GpMessages/
+output/cedar_dem_pro_*
+*.ovr
+*.tfw
+*.tif.xml
